@@ -1,3 +1,3 @@
 # file2
 
-my content
+my content.
